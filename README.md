@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**sepfazeli/sepfazeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello there! 👋
+Thanks for checking out my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me:
+
+🎓 I'm a software developer with a passion for creating clean, efficient, and user-friendly applications. I studied Information Technology at York University, where I developed a strong foundation in programming languages, algorithms, and software engineering principles. Currently, I'm working as an iOS software engineer at RydUp, a ride-hailing app that aims to improve the transportation experience for users around the world.
+
+Skills:
+
+💻 Swift, C++, Java, Python, JavaScript, React, Node.js, SQL, 
+
+Interests:
+
+ 📱Mobile Application Development, 🌐 Web development,🌐 Open-source development 🤖 Machine learning, 
+
+Contact Me:
+
+📧 If you'd like to get in touch, you can reach me at sepifazeli@yahoo.com.
+
+Fun Fact:
+
+🤓 Did you know that the first-ever programmer in the world was a woman named Ada Lovelace? She was an English mathematician and writer, who is credited with writing the first algorithm intended to be processed by a machine, and is regarded as the first computer programmer.
