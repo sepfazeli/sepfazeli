@@ -5,7 +5,7 @@ Thanks for checking out my GitHub profile!
 
 About Me:
 
-🎓 I'm a software developer with a passion for creating clean, efficient, and user-friendly applications. I studied Information Technology at York University, where I developed a strong foundation in programming languages, algorithms, and software engineering principles. Currently, I'm working as an iOS software engineer at RydUp, a ride-hailing app that aims to improve the transportation experience for users around the world.
+🎓 I'm a software developer with a passion for creating clean, efficient, and user-friendly applications. I studied Information Technology at York University, where I developed a strong foundation in programming languages, algorithms, and software engineering principles. Currently, I'm working as an iOS software engineer at RydUp, a ride-sharingapp that aims to improve the transportation experience for users around the world.
 
 Skills:
 
