@@ -7,13 +7,13 @@ About Me:
 
 🎓 I'm a software developer passionate about creating clean, efficient, and user-friendly applications. I studied Information Technology at York University, where I developed a strong foundation in programming languages, algorithms, and software engineering principles. Currently, I'm working as a full-stack developer at SimlQ.
 
-Skills:
+languages and frameworks:
 
-💻 Swift, C++, Java, Python, JavaScript, React, Node.js, SQL, 
+💻 Python,JavaScript, C++, Java , React, Node.js, SQL, Swift
 
 Interests:
 
- 📱Mobile Application Development, 🌐 Web development,🌐 Open-source development 🤖 Machine learning, 
+ 📱Mobile Application Development, 🌐 Web development, 🤖 Machine learning, 
 
 Contact Me:
 
