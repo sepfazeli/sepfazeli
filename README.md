@@ -18,3 +18,4 @@ Interests:
 Contact Me:
 
 📧 If you'd like to get in touch, you can reach me at sepifazeli@yahoo.com.
+![GitHub Snake](https://github.com/sepfazeli/snk/blob/output/snake.svg)
