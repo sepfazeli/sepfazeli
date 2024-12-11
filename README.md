@@ -1,24 +1,9 @@
 
 
-Hello there! 👋
-Thanks for checking out my GitHub profile!
 
-About Me:
+- [LinkedIn](https://www.linkedin.com/in/sepehr-fazely/)  
+- [Portfolio](https://www.sepehrfazeli.com/)  
+- Email: [sepifazeli@yahoo.com](mailto:sepifazeli@yahoo.com)
 
-🎓 I'm a software developer passionate about creating clean, efficient, and user-friendly applications. I studied Information Technology at York University, where I developed a strong foundation in programming languages, algorithms, and software engineering principles. Currently, I'm working as a full-stack developer at SimlQ.
-
-languages and frameworks:
-
-💻 Python,JavaScript, C++, Java , React, Node.js, SQL, Swift
-
-Interests:
-
- 📱Mobile Application Development, 🌐 Web development, 🤖 Machine learning, 
-
-Contact Me:
-
-📧 If you'd like to get in touch, you can reach me at sepifazeli@yahoo.com.
-
-## 🐍 My Contribution Snake
 
 ![GitHub Contribution Snake](./github-user-contribution.svg)
