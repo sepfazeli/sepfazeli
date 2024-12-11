@@ -19,8 +19,6 @@ Contact Me:
 
 📧 If you'd like to get in touch, you can reach me at sepifazeli@yahoo.com.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="dist/github-snake.svg" />
-</picture>
+## 🐍 My Contribution Snake
+
+![GitHub Contribution Snake](./github-user-contribution.svg)
