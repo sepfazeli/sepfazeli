@@ -20,5 +20,8 @@ Contact Me:
 📧 If you'd like to get in touch, you can reach me at sepifazeli@yahoo.com.
 
 
-![GitHub Snake Animation](https://github.com/sepfazeli/snk/blob/output/snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
